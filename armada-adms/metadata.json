@@ -1,0 +1,6 @@
+{
+  "name": "Armada ADMS",
+  "description": "Landing page jasa digital marketing & WhatsApp blast marketing high-converting untuk bisnis dan UMKM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
